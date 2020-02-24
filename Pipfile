@@ -12,6 +12,13 @@ scikit-learn = "*"
 matplotlib = "*"
 pandas = "*"
 thinc = "*"
+sklearn = "*"
+tushare = "*"
+time = "*"
+datetime = "*"
+random = "*"
+pymysql = "*"
+request = "*"
 
 [dev-packages]
 
