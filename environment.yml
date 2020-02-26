@@ -1,6 +1,9 @@
 dependencies:
   - python=3
   - pip:
+    - spacy
+    - ipykernel
+    - scipy
     - datetime
     - ftplib
     - gc
