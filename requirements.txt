@@ -3,14 +3,11 @@ ipykernel
 scipy
 datetime
 matplotlib
-matplotlib.pyplot
-memory_profiler
 numpy
 os
 pandas
 pymysql
 sklearn
-sklearn.linear_model
 socket
 sys
 time
