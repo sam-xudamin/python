@@ -1,16 +1,10 @@
-spacy
 ipykernel
 scipy
 datetime
 matplotlib
 numpy
-os
 pandas
 pymysql
 sklearn
-socket
-sys
-time
 tushare
-random
 request
