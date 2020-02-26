@@ -2,7 +2,6 @@ spacy
 ipykernel
 scipy
 datetime
-math
 matplotlib
 matplotlib.pyplot
 memory_profiler
