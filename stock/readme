@@ -1,1 +1,18 @@
 
+datetime
+ftplib
+gc
+math
+matplotlib
+matplotlib.pyplot
+memory_profiler
+numpy
+os
+pandas
+pymysql
+sklearn
+sklearn.linear_model
+socket
+sys
+time
+tushare
