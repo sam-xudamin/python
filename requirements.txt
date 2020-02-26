@@ -2,7 +2,6 @@ spacy
 ipykernel
 scipy
 datetime
-gc
 math
 matplotlib
 matplotlib.pyplot
