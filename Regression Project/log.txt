@@ -1,0 +1,61 @@
+2020-02-26 ---> 开始尝试连接到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 成功连接到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 开始尝试登录到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 成功登录到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 220-Microsoft FTP Service
+220 欢迎你连接本站FTP! 
+ 2020-02-26 ---> g:/index.html 不存在 
+ 2020-02-26 ---> close()---> FTP退出 
+ 2020-02-26 ---> 开始尝试连接到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 成功连接到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 开始尝试登录到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 成功登录到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 220-Microsoft FTP Service
+220 欢迎你连接本站FTP! 
+ 2020-02-26 ---> local_file_size:14570  , remote_file_size:12144 
+ 2020-02-26 ---> 上传: g:/pywork/Regression Project/index.html成功! 
+ 2020-02-26 ---> close()---> FTP退出 
+ 2020-02-26 ---> 开始尝试连接到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 成功连接到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 开始尝试登录到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 成功登录到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 220-Microsoft FTP Service
+220 欢迎你连接本站FTP! 
+ 2020-02-26 ---> local_file_size:12157  , remote_file_size:14570 
+ 2020-02-26 ---> 上传: index.html成功! 
+ 2020-02-26 ---> close()---> FTP退出 
+ 2020-02-26 ---> 开始尝试连接到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 成功连接到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 开始尝试登录到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 成功登录到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 220-Microsoft FTP Service
+220 欢迎你连接本站FTP! 
+ 2020-02-26 ---> local_file_size:12157  , remote_file_size:12157 
+ 2020-02-26 ---> close()---> FTP退出 
+ 2020-02-26 ---> 开始尝试连接到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 成功连接到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 开始尝试登录到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 成功登录到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 220-Microsoft FTP Service
+220 欢迎你连接本站FTP! 
+ 2020-02-26 ---> 上传: index.html成功! 
+ 2020-02-26 ---> close()---> FTP退出 
+ 2020-02-26 ---> 开始尝试连接到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 成功连接到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 开始尝试登录到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 成功登录到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 220-Microsoft FTP Service
+220 欢迎你连接本站FTP! 
+ 2020-02-26 ---> 上传: index.html成功! 
+ 2020-02-26 ---> 上传: old_index.js成功! 
+ 2020-02-26 ---> close()---> FTP退出 
+ 2020-02-26 ---> 开始尝试连接到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 成功连接到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 开始尝试登录到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 成功登录到 passvisor.gotoftp5.com 
+ 2020-02-26 ---> 220-Microsoft FTP Service
+220 欢迎你连接本站FTP! 
+ 2020-02-26 ---> 上传: index.html成功! 
+ 2020-02-26 ---> 上传: old_index.js成功! 
+ 2020-02-26 ---> close()---> FTP退出 
+ 
